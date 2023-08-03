@@ -11,7 +11,7 @@ This project takes user input for planted and harvested time in the game, calcul
 
 ### Dependencies
 
-- This project is written in C#, you would need .NET 5.0 or later to run the application.
+- This project is written in C#, you would need .NET 6.0 or later to run the application.
 - It runs in a console application, you can use Visual Studio or any other .NET compatible IDE to run the code.
 
 ### Installing
